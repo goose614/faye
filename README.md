@@ -1,2 +1,2 @@
 # faye
-a test repo
+a test repo. :D
